@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://images.pexels.com/photos/16100353/pexels-photo-16100353/free-photo-of-indian-flag-on-the-background-of-a-blue-sky.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load);
+    background-position-x: center;
+    background-size: cover;
+    color: white;
+}
+.navbar{
+    padding: 10px;
+text-align: left;
+text-decoration: none;
+    color: rgb(255, 255, 248);
+}
+UL li{
+    margin: 40px;
+    padding: 10px;
+display: inline;
+list-style: none;
+}
+ul li a
+{
+    text-decoration: none; 
+    color: antiquewhite;
+}
+ul li a:hover{
+cursor: pointer;
+color: #eaff00;
+
+}
+
+.p1 h1{
+    justify-items: center;
+    text-align: center;
+    text-decoration: double;
+    color: rgb(248, 250, 255); 
+    margin: 300px;
+    cursor: pointer;
+}
+.p1 h1:hover{
+    color: rgb(255, 25, 25);
+
+}
+
+.sarch{    
+font-family: 'Times New Roman';
+float: right;
+margin-top: -2%;
+size: 300px;
+border: 2px solid rgb(240, 222, 222);          
+
+} 
+.sarch:hover{
+background: transparent;
+}
