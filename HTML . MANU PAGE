@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="c:\Users\DEL\OneDrive\Desktop\webpage\Untitled-1.css">
+</head>
+<body>
+
+
+
+    <div class="navbar">
+       
+        <ul>
+           <LI><a href="">home</a></LI>
+           <LI><a href=""></a>home</LI>
+           <LI><a href="">History</a></LI>
+           <LI><a href="">login</a></LI>
+             
+        </ul>
+    </div>
+
+
+
+
+
+    <div class="sarch">
+<input type="search" name="search" id="search" placeholder="">
+ <a href="#"><button class="btn">search</button></a>    
+</div>
+
+
+
+
+
+    <div class="p1">
+<H1>WELLCOM TO SIR</H1>
+    </div>
+
+
+
+
+
+    <div class="">
+        <i class="संस्कृत">संस्कृत
+            <h3>
+                संस्कृत (संस्कृतम्) भारतीय उपमहाद्वीप की एक भाषा है। 
+                संस्कृत एक हिंद-आर्य भाषा है जो हिंद-यूरोपीय भाषा परिवार की एक शाखा है।[5] <a href="c:\Users\DEL\OneDrive\Desktop\webpage\New Text Document.txt">clike are</a>
+            </h3>
+        </i>
+    </div>
+</body>
+</html>
